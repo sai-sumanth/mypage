@@ -2,7 +2,7 @@
     <head>
         <meta charset="utf-8">
         <title>sai sumanth </title>
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="style.css">
         <link rel="icon" href="favicon.ico">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
@@ -18,13 +18,13 @@
       </ul>
         <div class="top-container fixed">
             <h1> <em>I'm Sai Sumanth </em> </h1>
-            <h2>A Programmer Interested in mobile, web applications and machine learning technologies</h2> 
+            <h2>A Programmer Interested in data science, mobile applications, web development and machine learning technologies</h2> 
         </div>
         <div class="middle-container">
             <div class="profile">
               <img src="images/sumanth.png" height="300" width="300" alt="sumanth-img">
               <h2>Hello.</h2>
-              <p>I'm Self-motivated and hardworking graduate seeking an opportunity to work in the challenging environment to prove my coding skills and utilize my knowledge of various mobile application development, image processing, computer vision and machine learning techniques for the growth of the organizations.</p>
+              <p>I'm Self-motivated and hardworking graduate seeking an opportunity to work in the challenging environment to prove my coding skills and utilize my knowledge of various data science, mobile application development, image processing, computer vision and machine learning techniques for the growth of the organizations.</p>
             </div>
             <hr>
             <div class="skills">
